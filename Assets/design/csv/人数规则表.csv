@@ -1,0 +1,6 @@
+玩家人数,Joker数量,手牌上限
+playerNum,jokerNum,maxCardNum
+1,2,8
+2,0,7
+3,1,6
+4,2,5

@@ -1,0 +1,4 @@
+player_card_range,"1,39",玩家手牌范围
+enermy_card_range,"40,52",敌人卡牌id范围
+multi_joker_id,53,多人JOKERid
+single_joker_id,54,单人JOKERid

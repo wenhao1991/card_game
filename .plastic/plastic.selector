@@ -1,0 +1,4 @@
+repository "poker@wechat_os_qy0xpwk7fdlnarppijtkqelxq@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
